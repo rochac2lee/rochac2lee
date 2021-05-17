@@ -45,7 +45,7 @@
 
 - 👨‍💻 **Desenvolvedor Full Stack Pleno**\
 📆 2020 - Atual\
-📍 **Dg Solutions** - Curitiba/PR, Brasil
+📍 **DG Solutions** - Curitiba/PR, Brasil
 
 <!--
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
