@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgres&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postgres-4479A1?logo=postgres&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />&nbsp;&nbsp;
@@ -99,34 +99,3 @@
 
 
 </details>
-
-<!--
-
-## Tecnologias que domino:
-
-### Back-End
-
-* PHP
-* Node
-* Perl
-* C
-
-### Front-End
-
-* HTML5
-* CSS3
-* Javascript
-* Vue
-* React
-
-### Frameworks
-
-* Laravel
-* Codeigniter
-
-## Gostou do meu perfil? 
-
-Fico feliz por isso! Estou deixando abaixo meus contatos para interagir-mos melhor, ok?
-
-
--->
