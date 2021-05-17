@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá, 👋 Sou Cleber Lee da Rocha, mais conhecido como Lee. 👨‍💻
+  Olá, 👋 Eu sou o Lee 👨‍💻
 </h1>
 
 <p align='center'>
@@ -25,7 +25,7 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 Meu Setup<br/><br/>
   <img src="https://img.shields.io/badge/linux-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
