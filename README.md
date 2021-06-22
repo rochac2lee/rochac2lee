@@ -32,7 +32,7 @@
 </p>
 
 <details>
-  <summary>Resumo</summary>
+  <summary>Experiências e Tecnologias</summary>
 
 
 ## Educação
