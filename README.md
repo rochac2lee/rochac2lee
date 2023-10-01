@@ -8,10 +8,10 @@
 
 <p align='center'>
   
-  <a href="https://wa.me/5541991098513?text=Olá!%20Cleber%20Lee">
+  <a href="https://wa.me/5541992096998?text=Olá!%20Cleber%20Lee">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/cleberli/">
+  <a href="https://www.linkedin.com/in/cleberleerocha">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!--<a href="https://instagram.com/alexandresanlim">
@@ -22,13 +22,6 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rochac2lee&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 Meu Setup<br/><br/>
-  <img src="https://img.shields.io/badge/Debian%2010-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 <details>
