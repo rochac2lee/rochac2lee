@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rochac2lee&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats-rochac2lee.vercel.app/api?username=rochac2lee&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <details>
