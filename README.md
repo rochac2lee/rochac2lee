@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Full Stack há mais de 5 anos.
+  Desenvolvedor Full Stack há mais de 8 anos.
 </p>
 
 <p align='center'>
